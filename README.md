@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding and engineering
 - 🌱 I’m currently learning python, C# and C++
 - 💞️ I’m looking to collaborate on a 3D python project
-- 📫 reach me by mail at titoufire26@gmail.com or on my discord server: https://discord.gg/wNCGtT723v
-- 😄 Pronouns: he, his
+- 📫 reach me by discord (username: Titoufire26)
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I love chemistry !
 
 <!---
